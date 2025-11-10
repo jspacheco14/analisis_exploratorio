@@ -1,8 +1,3 @@
-# Integrantes
-- Jaime Pacheco
-- Helen Polo
-- Daniel Barrera
-
 # librerias
 - Chart.js
 - Material UI instalar "npm install @mui/material @emotion/react @emotion/styled"
@@ -13,7 +8,7 @@
 - para correr el codigo "npm start"
 
 # notas a tener en cuenta
-- debe tener que debe correr el componente que dice DataVisualizer.js
+- debe correr el componente que dice DataVisualizer.js
 
 
   
